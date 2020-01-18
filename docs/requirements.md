@@ -27,6 +27,8 @@ entities and constraints:
 - End condition
   - An end condition must have an associated ingredient
   - An end condition must have an associated expression
+    - An expression must contain a sensory indicator (i.e. 'appearance')
+    - An expression must contain a value (i.e. 'golden')
 
 - Methods
   - A method must have an identifier
