@@ -29,6 +29,15 @@ entities and constraints:
   - An end condition must have an associated expression
     - An expression must contain a sensory indicator (i.e. 'appearance')
     - An expression must contain a value (i.e. 'golden')
+    - Sensory indicators include
+      - appearance
+      - sound
+      - taste
+      - smell
+      - feel
+      - temperature
+      - duration
+      - size
 
 - Methods
   - A method must have an identifier
